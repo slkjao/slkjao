@@ -1,6 +1,6 @@
 ### Hi there 👋 me chamo <-- João Araújo -->
 
-<!--
+
 **slkjao/slkjao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
