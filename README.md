@@ -8,3 +8,4 @@
 - 📫 Contato por email: joaovaraujoc@gmail.com
 
 
+![Snake animation](https://github.com/slkjao/slkjao/blob/output/github-contribution-grid-snake.svg)
